@@ -1,8 +1,8 @@
-# STUDY4 .NET Conf Taiwan Website Achieve
+# STUDY4 .NET Conf Taiwan Website Archive
 
-[achieve.dotnetconf.study4.tw](https://achieve.dotnetconf.study4.tw/)
+[archive.dotnetconf.study4.tw](https://archive.dotnetconf.study4.tw/)
 
-This repository is achieve STUDY4 .NET Conf Taiwan Website with static HTML.
+This repository is archive STUDY4 .NET Conf Taiwan Website with static HTML.
 
 You can run this website with live-server. Please use npm to install [live-server](https://www.npmjs.com/package/live-server) first and then run live-server.
 
